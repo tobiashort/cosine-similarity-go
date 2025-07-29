@@ -4,7 +4,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/tobiashort/orderedmap"
+	"github.com/tobiashort/orderedmap-go"
 )
 
 func CosineSimilarity(s1, s2 string) float64 {

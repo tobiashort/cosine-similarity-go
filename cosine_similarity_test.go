@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "github.com/tobiashort/cosine-similarity"
+	. "github.com/tobiashort/cosine-similarity-go"
 )
 
 func Test(t *testing.T) {

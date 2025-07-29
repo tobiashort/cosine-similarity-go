@@ -1,0 +1,3 @@
+# github.com/tobiashort/orderedmap-go v0.0.0-20250729190624-ec8e8c7a251e
+## explicit; go 1.24
+github.com/tobiashort/orderedmap-go
